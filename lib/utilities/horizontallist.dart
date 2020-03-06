@@ -66,41 +66,7 @@ Widget horizontallist = ListView(
         ),
       ),
     ),
-    Container(
-      width:300.0,
-      
-      child: Card(
-        
-        child: Wrap(
-          children: <Widget>[
-            Container(
-           
-            )
-
-
-
-          ],
-        ),
-      ),
-    ),
-    Container(
-      width:300.0,
-      
-      child: Card(
-        
-        
-        child: Wrap(
-          children: <Widget>[
-            Container(
-              
-            )
-
-
-
-          ],
-        ),
-      ),
-    ),
+   
     Container(
       width:300.0,
     
