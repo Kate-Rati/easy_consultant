@@ -15,11 +15,11 @@ Widget horizontallist = ListView(
   children: <Widget>[
 
     Container(
-      width:200.0,
-      height: 50.0,
+      width:150.0,
+    //  height: 50.0,
       
       child: Card(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(900)),        elevation: 4.0,
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(300)),        elevation: 4.0,
         
         child: Wrap(
           children: <Widget>[
@@ -35,8 +35,8 @@ Widget horizontallist = ListView(
 
     new Divider(),
     Container(
-      width:200.0,
-       height: 50.0,
+      width:150.0,
+     //  height: 50.0,
       
       child: Card(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(900)),
@@ -54,8 +54,8 @@ Widget horizontallist = ListView(
       ),
     ),
     Container(
-      width:200.0,
-       height: 50.0,
+      width:150.0,
+      // height: 50.0,
       
       child: Card(
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(900)),
@@ -74,11 +74,11 @@ Widget horizontallist = ListView(
     ),
    
     Container(
-      width:200.0,
-       height: 50.0,
+      width:50.0,
+      // height: 50.0,
     
       child: Card(
-        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(900)),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(50)),
         
         child: Wrap(
           children: <Widget>[
